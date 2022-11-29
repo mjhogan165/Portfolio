@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 402 389">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-2 {
+        filter: url(#filter-11);
+      }
+
+      .cls-3 {
+        filter: url(#filter-2);
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient-6);
+      }
+
+      .cls-5 {
+        filter: url(#filter-4);
+      }
+
+      .cls-6 {
+        filter: url(#filter-8);
+      }
+
+      .cls-7 {
+        fill: url(#linear-gradient-7);
+      }
+
+      .cls-8 {
+        fill: url(#linear-gradient-5);
+        stroke: rgba(255, 255, 255, .4);
+      }
+
+      .cls-9 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-10 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-11 {
+        filter: url(#filter-6);
+      }
+
+      .cls-12 {
+        fill: url(#linear-gradient-4);
+      }
+    </style>
+    <filter id="filter-2" x="-21.8%" y="-22.6%" width="143.6%" height="145.3%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="12"/>
+    </filter>
+    <linearGradient id="linear-gradient" x1="-753.69" y1="742.48" x2="-754.69" y2="742.48" gradientTransform="translate(124560.21 118170.2) scale(165 -159)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#bd6d5e"/>
+      <stop offset=".48" stop-color="#df9139"/>
+      <stop offset="1" stop-color="#c9816f"/>
+    </linearGradient>
+    <filter id="filter-4" x="-21.8%" y="-21.8%" width="143.6%" height="143.6%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="12"/>
+    </filter>
+    <linearGradient id="linear-gradient-2" x1="-754.19" y1="743.05" x2="-754.19" y2="742.05" gradientTransform="translate(124560.21 122792.02) scale(165 -165)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c9816f"/>
+      <stop offset="1" stop-color="#b32257"/>
+      <stop offset="1" stop-color="#d2a08e"/>
+    </linearGradient>
+    <filter id="filter-6" x="-21.8%" y="-21.8%" width="143.6%" height="143.6%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="12"/>
+    </filter>
+    <linearGradient id="linear-gradient-3" x1="-753.69" y1="742.55" x2="-754.69" y2="742.55" gradientTransform="translate(124725.21 122792.02) scale(165 -165)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#61529c"/>
+      <stop offset="1" stop-color="#861c77"/>
+    </linearGradient>
+    <filter id="filter-8" x="-21.8%" y="-21.8%" width="143.6%" height="143.6%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="12"/>
+    </filter>
+    <linearGradient id="linear-gradient-4" x1="-753.69" y1="742.55" x2="-754.69" y2="742.55" gradientTransform="translate(124725.21 122640.02) scale(165 -165)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1b89c7"/>
+      <stop offset="1" stop-color="#568697"/>
+    </linearGradient>
+    <filter id="filter-11" x="-5.5%" y="-5.5%" width="111.7%" height="111.7%">
+      <feMorphology in="SourceAlpha" operator="dilate" radius="0.5" result="shadowSpreadOuter1"/>
+      <feOffset dx="1" dy="1" in="shadowSpreadOuter1" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="5.5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.414909309 0"/>
+    </filter>
+    <linearGradient id="linear-gradient-5" x1="-756.22" y1="743.92" x2="-755.22" y2="742.92" gradientTransform="translate(226916.08 223219.97) scale(300 -300)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#19181d"/>
+      <stop offset="1" stop-color="#000"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-6" x1="-755.33" y1="743.54" x2="-755.33" y2="742.54" gradientTransform="translate(187521.9 164406.34) scale(248 -221)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9aeffd"/>
+      <stop offset="1" stop-color="#61dafb"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-7" x1="-745.43" y1="738.1" x2="-745.43" y2="737.1" gradientTransform="translate(34489.62 34124.59) scale(46 -46)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9aeffd"/>
+      <stop offset="1" stop-color="#61dafb"/>
+    </linearGradient>
+  </defs>
+  <g id="react-logo">
+    <g id="Rectangle" class="cls-3">
+      <rect class="cls-10" x="35.97" y="35.97" width="165" height="159"/>
+    </g>
+    <g id="Rectangle-2" data-name="Rectangle" class="cls-5">
+      <rect class="cls-1" x="35.97" y="187.97" width="165" height="165"/>
+    </g>
+    <g id="Rectangle-3" data-name="Rectangle" class="cls-11">
+      <rect class="cls-9" x="200.97" y="187.97" width="165" height="165"/>
+    </g>
+    <g id="Rectangle-4" data-name="Rectangle" class="cls-6">
+      <rect class="cls-12" x="200.97" y="35.97" width="165" height="165"/>
+    </g>
+    <g id="Rectangle-5" data-name="Rectangle">
+      <g class="cls-2">
+        <rect id="path-10" x="50.97" y="44.97" width="300" height="300"/>
+      </g>
+      <rect id="path-10-2" data-name="path-10" class="cls-8" x="50.97" y="44.97" width="300" height="300"/>
+    </g>
+    <g id="React-icon-_1_" data-name="React-icon-(1)">
+      <path id="Shape" class="cls-4" d="M324.97,194.5c0-16.44-20.57-32.02-52.12-41.68,7.28-32.17,4.04-57.77-10.21-65.96-3.29-1.92-7.13-2.83-11.32-2.83v11.28c2.33,0,4.2,.46,5.76,1.32,6.87,3.95,9.86,18.97,7.53,38.29-.56,4.75-1.47,9.76-2.58,14.87-9.91-2.43-20.73-4.3-32.1-5.51-6.82-9.36-13.9-17.86-21.03-25.29,16.48-15.33,31.95-23.72,42.46-23.72v-11.28h0c-13.9,0-32.1,9.91-50.5,27.11-18.4-17.1-36.6-26.91-50.5-26.91v11.28c10.46,0,25.98,8.35,42.46,23.57-7.08,7.44-14.15,15.88-20.88,25.24-11.42,1.21-22.24,3.09-32.15,5.56-1.16-5.06-2.02-9.96-2.63-14.67-2.38-19.32,.56-34.35,7.38-38.34,1.52-.91,3.49-1.32,5.81-1.32v-11.28h0c-4.25,0-8.09,.91-11.42,2.83-14.2,8.19-17.39,33.74-10.06,65.81-31.44,9.71-51.92,25.24-51.92,41.63s20.57,32.02,52.12,41.68c-7.28,32.17-4.04,57.77,10.21,65.96,3.29,1.92,7.13,2.83,11.37,2.83,13.9,0,32.1-9.91,50.5-27.11,18.4,17.1,36.6,26.91,50.5,26.91,4.25,0,8.09-.91,11.42-2.83,14.2-8.19,17.39-33.74,10.06-65.81,31.34-9.66,51.81-25.24,51.81-41.63Zm-65.82-33.74c-1.87,6.53-4.2,13.25-6.82,19.98-2.07-4.05-4.25-8.09-6.62-12.14-2.33-4.05-4.8-7.99-7.28-11.84,7.18,1.06,14.1,2.38,20.73,4Zm-23.15,53.87c-3.94,6.83-7.99,13.3-12.18,19.32-7.53,.66-15.17,1.01-22.85,1.01s-15.27-.35-22.75-.96c-4.2-6.02-8.29-12.44-12.23-19.22-3.84-6.63-7.33-13.35-10.51-20.13,3.13-6.78,6.67-13.56,10.46-20.18,3.94-6.83,7.99-13.3,12.18-19.32,7.53-.66,15.17-1.01,22.85-1.01s15.27,.35,22.75,.96c4.2,6.02,8.29,12.44,12.23,19.22,3.84,6.63,7.33,13.35,10.51,20.13-3.18,6.78-6.67,13.56-10.46,20.18Zm16.33-6.58c2.73,6.78,5.06,13.56,6.98,20.13-6.62,1.62-13.6,2.98-20.83,4.05,2.48-3.89,4.95-7.89,7.28-11.99,2.33-4.05,4.5-8.14,6.57-12.19Zm-51.26,53.97c-4.7-4.86-9.4-10.27-14.05-16.19,4.55,.2,9.2,.35,13.9,.35s9.45-.1,14.05-.35c-4.55,5.92-9.25,11.33-13.9,16.19Zm-37.61-29.79c-7.18-1.06-14.1-2.38-20.73-4,1.87-6.53,4.2-13.25,6.82-19.98,2.07,4.05,4.25,8.09,6.62,12.14,2.38,4.05,4.8,7.99,7.28,11.84Zm37.36-105.26c4.7,4.86,9.4,10.27,14.05,16.19-4.55-.2-9.2-.35-13.9-.35s-9.45,.1-14.05,.35c4.55-5.92,9.25-11.33,13.9-16.19Zm-37.41,29.79c-2.48,3.89-4.95,7.89-7.28,11.99-2.33,4.05-4.5,8.09-6.57,12.14-2.73-6.78-5.06-13.56-6.98-20.13,6.62-1.57,13.6-2.93,20.83-4Zm-45.75,63.33c-17.89-7.64-29.47-17.65-29.47-25.6s11.58-18.01,29.47-25.6c4.35-1.87,9.1-3.54,14-5.11,2.88,9.91,6.67,20.23,11.37,30.81-4.65,10.52-8.39,20.79-11.22,30.65-5-1.57-9.76-3.29-14.15-5.16Zm27.2,72.28c-6.87-3.95-9.86-18.97-7.53-38.29,.56-4.75,1.47-9.76,2.58-14.87,9.91,2.43,20.73,4.3,32.1,5.51,6.82,9.36,13.9,17.86,21.03,25.29-16.48,15.33-31.95,23.72-42.46,23.72-2.27-.05-4.2-.51-5.71-1.37Zm119.91-38.54c2.38,19.32-.56,34.35-7.38,38.34-1.52,.91-3.49,1.32-5.81,1.32-10.46,0-25.98-8.35-42.46-23.57,7.08-7.44,14.15-15.88,20.88-25.24,11.42-1.21,22.24-3.09,32.15-5.56,1.16,5.11,2.07,10.02,2.63,14.72Zm19.46-33.74c-4.35,1.87-9.1,3.54-14,5.11-2.88-9.91-6.67-20.23-11.37-30.81,4.65-10.52,8.39-20.79,11.22-30.65,5,1.57,9.76,3.29,14.2,5.16,17.89,7.64,29.47,17.65,29.47,25.6-.05,7.94-11.63,18.01-29.52,25.6Z"/>
+      <circle id="Oval" class="cls-7" cx="199.97" cy="194.97" r="23"/>
+    </g>
+  </g>
+</svg>

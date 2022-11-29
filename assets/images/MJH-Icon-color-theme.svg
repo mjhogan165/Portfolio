@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 105.69 30.82">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #b94642;
+      }
+
+      .cls-3 {
+        fill: #83a1bf;
+      }
+
+      .cls-4 {
+        font-family: ForteMT, Forte;
+        font-size: 24px;
+      }
+
+      .cls-5 {
+        fill: #231f20;
+      }
+    </style>
+  </defs>
+  <text class="cls-4" transform="translate(0 20.05)"><tspan class="cls-3" x="0" y="0">&lt;</tspan><tspan class="cls-1" x="16.01" y="0">M</tspan><tspan class="cls-2" x="41.3" y="5.63">J</tspan><tspan class="cls-2" x="54.04" y="0">H</tspan><tspan class="cls-5" x="72.04" y="0"> </tspan><tspan class="cls-3" x="78.42" y="0">/&gt;</tspan></text>
+</svg>
